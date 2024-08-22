@@ -4,4 +4,4 @@
 - project_report.pdf is the description file or project report file.
 - project_code.txt is the Arduino code txt file.
 - project.zip contains all project files.
-![Project_image (1)](https://github.com/user-attachments/assets/1d8a62b3-d674-459f-83fe-c9a909482aea)
+![Project_image (1)](https://github.com/user-attachments/assets/d17a01bc-eb63-4fbe-94cb-6a6483ef7f8c)
