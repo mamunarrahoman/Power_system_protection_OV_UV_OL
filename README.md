@@ -1,5 +1,5 @@
 - Project Name  : Over Voltage, Under Voltage and Over Load Protection of Power System using NodeMCU Mega WiFi R3 (ATmega 2560).
-- Weblink       : https://sites.google.com/view/mamunar/project/power-system-protection
+- Weblink       : https://sites.google.com/view/mamunar/projects/power-system-protection
 - project_presentation.ppt is recommended to view to get overall idea about this project at a glance.
 - project_report.pdf is the description file or project report file.
 - project_code.txt is the Arduino code txt file.
